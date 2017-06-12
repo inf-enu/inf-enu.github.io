@@ -834,13 +834,14 @@ left content section
 	padding-bottom:0;
 }
 .blog_box {
-	width:900px;
+	width:921px;
+	
 	float:left;
 	background:#fff;
 	margin-bottom:12px;
 }
 .blog_heading {
-	width:900px;
+	width:910px;
 	float:left;
 	border:1px solid #00659b;
 	background:#004a72;
@@ -857,7 +858,7 @@ left content section
 	color:#fff;
 }
 .blog_date {
-	width:900px;
+	width:710px;
 	float:left;
 	border-top:0;
 	border-bottom:0;
@@ -882,7 +883,8 @@ left content section
 	margin-left:7px;
 }
 .blog_content, .blog_detail, .news_content {
-	width:905px;
+	width:601px;
+	border:1px solid #ccc;
 	padding:9px;
 	float:left;
 	padding-bottom:0;
@@ -890,12 +892,12 @@ left content section
 .news_content {
 	padding:9px 13px;
 	padding-left:9px;
-	width:697px;
+	width:597px;
 	padding-bottom:0;
 }
 .blog_detail {
 	padding-right:12px;
-	width:905px;
+	width:598px;
 }
 .blog_detail img.align_left {
 	float:left;
@@ -929,7 +931,8 @@ left content section
 }
 .pager {
 	float:left;
-	width:900px;
+	width:705px;
+	border:1px solid #ccc;
 	background:#f0f0f0;
 	padding:4px 10px;
 	padding-right:4px;
