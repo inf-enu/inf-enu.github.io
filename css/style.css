@@ -860,7 +860,6 @@ left content section
 .blog_date {
 	width:1010px;
 	float:left;
-	border:1px solid #ccc;
 	border-top:0;
 	border-bottom:0;
 	background:#f0f0f0;
@@ -885,7 +884,6 @@ left content section
 }
 .blog_content, .blog_detail, .news_content {
 	width:1001px;
-	border:1px solid #ccc;
 	padding:9px;
 	float:left;
 	padding-bottom:0;
