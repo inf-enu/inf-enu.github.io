@@ -835,6 +835,7 @@ left content section
 }
 .blog_box {
 	width:1021px;
+	height:1021px;
 	float:left;
 	background:#fff;
 	margin-bottom:12px;
