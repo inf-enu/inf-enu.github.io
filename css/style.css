@@ -869,7 +869,7 @@ left content section
 }
 .blog_date p {
 	float:left;
-	width:480px;
+	width:1000px;
 	padding-bottom:0;
 	line-height:20px;
 }
@@ -896,7 +896,7 @@ left content section
 }
 .blog_detail {
 	padding-right:12px;
-	width:698px;
+	width:1000px;
 }
 .blog_detail img.align_left {
 	float:left;
