@@ -858,7 +858,7 @@ left content section
 	color:#fff;
 }
 .blog_date {
-	width:710px;
+	width:1010px;
 	float:left;
 	border:1px solid #ccc;
 	border-top:0;
@@ -884,7 +884,7 @@ left content section
 	margin-left:7px;
 }
 .blog_content, .blog_detail, .news_content {
-	width:701px;
+	width:1001px;
 	border:1px solid #ccc;
 	padding:9px;
 	float:left;
@@ -933,7 +933,6 @@ left content section
 .pager {
 	float:left;
 	width:1005px;
-	border:1px solid #ccc;
 	background:#f0f0f0;
 	padding:4px 10px;
 	padding-right:4px;
