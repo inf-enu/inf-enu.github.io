@@ -625,12 +625,10 @@ Study Programs
 	margin-bottom:14px;
 	border-bottom:1px dotted #b8b8b8;
 }
-.box_spotlight img {
-	float:left;
 }
 .box_spotlight .spot_desc {
 	float:right;
-	width:230px;
+	width:310px;
 }
 .news_slider {
 	float:right;
